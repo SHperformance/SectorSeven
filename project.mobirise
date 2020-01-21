@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Sector Seven Spectrum",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -44,7 +44,7 @@
     "uniqCompNum": 158,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/s7-product-icon-128x128.png",
     "noImageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
