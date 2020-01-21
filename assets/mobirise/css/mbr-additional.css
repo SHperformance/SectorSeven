@@ -1843,13 +1843,236 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
-.cid-rNM5M5BD8p {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/screen-shot-2020-01-16-at-1.43.40-pm-1007x249.png");
+.cid-rOeW2gHYck {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/3c29477e-99cf-456b-910e-4f961d3d0cdf-1-2000x1500.jpeg");
 }
-.cid-rNM5M5BD8p H1 {
-  color: #cc2952;
+.cid-rOeW2gHYck .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeW2gHYck .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeW2gHYck .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeW2gHYck .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeW2gHYck H1 {
+  color: #232323;
+}
+.cid-rOeW2gHYck .mbr-text,
+.cid-rOeW2gHYck .mbr-section-btn {
+  color: #232323;
+}
+.cid-rOeX7U5A32 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/20180711-193609-twk-1-2000x2667.jpeg");
+}
+.cid-rOeX7U5A32 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeX7U5A32 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeX7U5A32 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeX7U5A32 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeX7U5A32 H1 {
+  color: #ffffff;
+}
+.cid-rOeX7U5A32 .mbr-text,
+.cid-rOeX7U5A32 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rOeX8xkGc3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/dante-oliveira-mjs-1593-2000x1333.jpg");
+}
+.cid-rOeX8xkGc3 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeX8xkGc3 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeX8xkGc3 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeX8xkGc3 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeX8xkGc3 H1 {
+  color: #ffffff;
+}
+.cid-rOeX8xkGc3 .mbr-text,
+.cid-rOeX8xkGc3 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rOeWTU2fad {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mjs-941-2000x1327.jpeg");
+}
+.cid-rOeWTU2fad .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeWTU2fad .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeWTU2fad .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeWTU2fad .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeWTU2fad H1 {
+  color: #232323;
+}
+.cid-rOeWTU2fad .mbr-text,
+.cid-rOeWTU2fad .mbr-section-btn {
+  color: #232323;
+}
+.cid-rOeWUdhOoh {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mjs-941-2000x1327.jpeg");
+}
+.cid-rOeWUdhOoh .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeWUdhOoh .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeWUdhOoh .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeWUdhOoh .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeWUdhOoh H1 {
+  color: #232323;
+}
+.cid-rOeWUdhOoh .mbr-text,
+.cid-rOeWUdhOoh .mbr-section-btn {
+  color: #232323;
+}
+.cid-rOeWXPLOZw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/cooper-abbott-mjs-1938-2000x1333.jpg");
+}
+.cid-rOeWXPLOZw .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeWXPLOZw .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeWXPLOZw .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeWXPLOZw .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeWXPLOZw H1 {
+  color: #232323;
+}
+.cid-rOeWXPLOZw .mbr-text,
+.cid-rOeWXPLOZw .mbr-section-btn {
+  color: #232323;
+}
+.cid-rOeWY8cODM {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/cooper-abbott-mjs-1938-2000x1333.jpg");
+}
+.cid-rOeWY8cODM .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOeWY8cODM .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOeWY8cODM .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOeWY8cODM .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOeWY8cODM H1 {
+  color: #232323;
+}
+.cid-rOeWY8cODM .mbr-text,
+.cid-rOeWY8cODM .mbr-section-btn {
+  color: #232323;
 }
 .cid-rNM6dUA34G {
   padding-top: 90px;
