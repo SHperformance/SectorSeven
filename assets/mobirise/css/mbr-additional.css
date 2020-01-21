@@ -1876,6 +1876,43 @@ section.lazy-placeholder:after {
 .cid-rOeW2gHYck .mbr-section-btn {
   color: #232323;
 }
+.cid-rOfoR0TbgL {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+.cid-rOfoR0TbgL .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOfoR0TbgL .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOfoR0TbgL .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOfoR0TbgL .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOfoR0TbgL H1 {
+  color: #232323;
+}
+.cid-rOfoR0TbgL .mbr-text,
+.cid-rOfoR0TbgL .mbr-section-btn {
+  color: #232323;
+}
+.cid-rOfoR0TbgL H3 {
+  color: #232323;
+}
 .cid-rOeX7U5A32 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1903,11 +1940,47 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rOeX7U5A32 H1 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rOeX7U5A32 .mbr-text,
 .cid-rOeX7U5A32 .mbr-section-btn {
-  color: #ffffff;
+  color: #232323;
+}
+.cid-rOfmNn2v4i {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/spectrum-wuniversal-clamp-7-1200x1200.jpeg");
+}
+.cid-rOfmNn2v4i .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rOfmNn2v4i .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rOfmNn2v4i .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rOfmNn2v4i .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rOfmNn2v4i H1 {
+  color: #232323;
+}
+.cid-rOfmNn2v4i .mbr-text,
+.cid-rOfmNn2v4i .mbr-section-btn {
+  color: #232323;
+}
+.cid-rOfmNn2v4i H3 {
+  color: #232323;
 }
 .cid-rOeX8xkGc3 {
   padding-top: 30px;
@@ -1936,11 +2009,11 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rOeX8xkGc3 H1 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rOeX8xkGc3 .mbr-text,
 .cid-rOeX8xkGc3 .mbr-section-btn {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rOeWTU2fad {
   padding-top: 15px;
